@@ -6,9 +6,6 @@ data/MachineLearningCSV/*.csv
 !data/MachineLearningCSV/
 !data/MachineLearningCSV/.gitkeep
 
-# Output files
-outputs/
-
 # Python cache
 __pycache__/
 *.pyc

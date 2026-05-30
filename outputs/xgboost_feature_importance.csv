@@ -1,0 +1,21 @@
+﻿feature,importance
+Dst Port,0.46911767
+Init Fwd Win Byts,0.07759733
+Pkt Len Var,0.06726018
+Bwd Pkt Len Mean,0.06568206
+Bwd Pkt Len Max,0.041963875
+Bwd Seg Size Avg,0.04140163
+Fwd Header Len,0.03234887
+Bwd Pkts/s,0.031896535
+Fwd Pkt Len Mean,0.02861701
+Fwd Pkts/s,0.024247399
+TotLen Bwd Pkts,0.023823595
+Fwd Seg Size Avg,0.020301742
+Fwd Pkt Len Max,0.015925216
+Pkt Len Mean,0.014289584
+Pkt Len Std,0.011283589
+Subflow Fwd Byts,0.008993954
+TotLen Fwd Pkts,0.0073099076
+Subflow Bwd Byts,0.006798313
+Flow Pkts/s,0.006177107
+Pkt Size Avg,0.004964462

@@ -1,0 +1,17 @@
+﻿Label,count
+Benign,380298
+DDOS attack-HOIC,32860
+DoS attacks-Hulk,22053
+Infilteration,19793
+Bot,13764
+FTP-BruteForce,9305
+SSH-Bruteforce,9016
+DoS attacks-SlowHTTPTest,6721
+DDoS attacks-LOIC-HTTP,3580
+DoS attacks-GoldenEye,1910
+DoS attacks-Slowloris,568
+DDOS attack-LOIC-UDP,87
+Brute Force -Web,23
+Brute Force -XSS,9
+Label,9
+SQL Injection,4
