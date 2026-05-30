@@ -1,0 +1,28 @@
+# Dataset files
+data/MachineLearningCSV/*.csv
+
+# Keep dataset folder structure
+!data/
+!data/MachineLearningCSV/
+!data/MachineLearningCSV/.gitkeep
+
+# Output files
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
